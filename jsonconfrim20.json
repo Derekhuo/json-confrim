@@ -1,0 +1,480 @@
+{
+    "customerLanguage": "zh_CN",
+    "checksDetails": [
+        {
+            "checkType": "AGE_CHECK",
+            "status": "NO_HIT",
+            "profileId": "AGE_CHECK_NO_HIT",
+            "codeList": []
+        },
+        {
+            "checkType": "SCC_INDUSTRY_CHECK",
+            "status": "NO_HIT",
+            "profileId": "SCC_INDUSTRY_CHECK_NO_HIT",
+            "codeList": []
+        },
+        {
+            "checkType": "SANCTION_LOCATION",
+            "status": "NO_HIT",
+            "profileId": "SANCTION_LOCATION_NO_HIT",
+            "codeList": []
+        },
+        {
+            "checkType": "RESIDENTIAL_ADDRESS_CHECK",
+            "status": "NO_HIT",
+            "profileId": "RESIDENTIAL_ADDRESS_CHECK_NO_HIT",
+            "codeList": []
+        },
+        {
+            "checkType": "TAX_RESIDENCE_CHECK",
+            "status": "NO_HIT",
+            "profileId": "SCC_INDUSTRY_CHECK_NO_HIT",
+            "codeList": []
+        },
+        {
+            "checkType": "CONNECTED_PARTY_CHECK",
+            "status": "NO_HIT",
+            "profileId": "CONNECTED_PARTY_CHECK_NO_HIT",
+            "codeList": []
+        },
+        {
+            "checkType": "US_INDICIA_PRE_CHECK",
+            "status": "NO_HIT",
+            "profileId": "US_INDICIA_PRE_CHECK_NO_HIT",
+            "codeList": []
+        }
+    ],
+    "consents": [
+        {
+            "consentCode": "CONSENT_T_AND_C",
+            "checked": true,
+            "checkTime": "2019-12-19T08:16:50.799Z[UTC]"
+        }
+    ],
+    "applicationId": "5dfb2cf24a3baca1cdbe3c05",
+    "personalDetails": {
+        "customerNames": [
+            {
+                "nameType": "LOCAL",
+                "firstName": "森",
+                "lastName": "刘",
+                "fullName": "刘森"
+            },
+            {
+                "nameType": "PRIMARY",
+                "firstName": "SEN",
+                "lastName": "LIU",
+                "fullName": "SEN LIU"
+            }
+        ],
+        "gender": "MALE",
+        "dateOfBirth": "1996-08-27",
+        "nationalityDetails": {
+            "hasMultipleNationalities": false,
+            "nationality": "CN",
+            "nationality2": null,
+            "nationality3": null
+        },
+        "identificationDocument": {
+            "documentType": "IDENTITY_CARD",
+            "documentReference": "46003319960827037X",
+            "placeOfIssue": "海南省乐东黎族自治县公安局",
+            "startDate": "2012-09-20",
+            "expiryDate": "2022-09-20"
+        },
+        "countryOfBirth": "CN",
+        "title": "MR",
+        "residentialStatus": {
+            "hasPermanentResidencyInCountry": true
+        },
+        "countryOfResidence": null,
+        "maritalStatus": null
+    },
+    "contactDetails": {
+        "telephoneNumbers": [
+            {
+                "number": "13632219949",
+                "countryCode": "86",
+                "telephoneNumberType": "MOBILE"
+            }
+        ],
+        "emailAddressList": [
+            {
+                "emailType": "PERSONAL",
+                "emailAddress": "liusen@liusen.com"
+            }
+        ],
+        "addresses": [
+            {
+                "addressType": "HOME_ADDRESS",
+                "addressLine1": "中国",
+                "addressLine2": "黑龙江省",
+                "addressLine3": "齐齐哈尔市",
+                "addressLine4": null,
+                "addressLine5": "aaaaaaaaaabbbbbbbbbbc",
+                "postalCode": "1111122222",
+                "atThisAddressSince": "2019-01-01",
+                "addressCountry": "CN"
+            },
+            {
+                "addressType": "PREVIOUS_ADDRESS",
+                "addressLine1": "中国",
+                "addressLine2": "北京",
+                "addressLine3": "北京市",
+                "addressLine4": null,
+                "addressLine5": "aaaaaaaaaabbbbbbbbbbd",
+                "postalCode": "1111133333",
+                "atThisAddressSince": "2019-01-01",
+                "addressCountry": "CN"
+            },
+            {
+                "addressType": "PREVIOUS_ADDRESS",
+                "addressLine1": "中国",
+                "addressLine2": "广东省",
+                "addressLine3": "珠海市",
+                "addressLine4": null,
+                "addressLine5": "aaaaaaaaaabbbbbbbbbbe",
+                "postalCode": "1111144444",
+                "atThisAddressSince": "2018-11-01",
+                "addressCountry": "CN"
+            },
+            {
+                "addressType": "CORRESPONDENCE_ADDRESS",
+                "addressLine1": "中国",
+                "addressLine2": "黑龙江省",
+                "addressLine3": "齐齐哈尔市",
+                "addressLine4": null,
+                "addressLine5": "aaaaaaaaaabbbbbbbbbbc",
+                "postalCode": "1111122222",
+                "atThisAddressSince": "2019-01-01",
+                "addressCountry": "CN"
+            }
+        ]
+    },
+    "employmentDetails": {
+        "occupation": "PROFESSIONAL_SENIOREXECUTIVE",
+        "employmentStatus": null,
+        "subOccupation": null,
+        "employmentRole": "ACCOUNTANT",
+        "jobTitle": "BUSINESS_OWNER",
+        "industry": "INFORMATION_AND_COMUNICATION",
+        "employerName": "计算机公司",
+        "employerAddress": {
+            "addressType": "EMPLOYER_ADDRESS",
+            "addressLine1": "中国",
+            "addressLine2": "浙江省",
+            "addressLine3": "宁波市",
+            "addressLine4": null,
+            "addressLine5": "aaaaaaaaaabbbbbbbbbbf",
+            "postalCode": "1111155555",
+            "atThisAddressSince": null,
+            "addressCountry": "CN"
+        }
+    },
+    "financialDetails": {
+        "incomePeriod": "P1Y",
+        "grossIncome": {
+            "amount": "100000",
+            "currency": "CNY"
+        },
+        "otherIncome": {
+            "amount": "200000",
+            "currency": "CNY"
+        },
+        "socialWelfareEligible": null,
+        "taxResidencyInfo": {
+            "taxResidentType": "IN_COUNTRY",
+            "taxResidentCountryOfBirth": "CN",
+            "taxResidentProvinceOfBirth": null,
+            "taxResidentCityOfBirth": null,
+            "taxResidencyDetails": []
+        }
+    },
+    "accountUsage": {
+        "hasConnectedParties": false,
+        "connectedPartiesDetails": {
+            "hasRegularDeposit": null,
+            "frequencyOfDeposit": "P1M",
+            "approximateDepositAmount": null
+        },
+        "accountPurpose": [
+            "SALARY"
+        ],
+        "reasonForAccountOpening": null,
+        "firstDepositDetails": {
+            "initialFundsTransferProcess": "CASH",
+            "initialFundsSource": "SALARY",
+            "initialFundsSourceRemark": null,
+            "fundsOriginationCountry": [],
+            "initialDepositAmount": {
+                "amount": "100000",
+                "currency": "CNY"
+            }
+        },
+        "cashWithdrawlAndDepositDetails": {
+            "makesLargeCashDeposits": false,
+            "frequencyOfLargeCashDeposits": "P1M",
+            "numberOfLargeCashDeposits": 0,
+            "approximateLargeCashDepositsAmount": null,
+            "makesLargeCashWithdraws": false,
+            "frequencyOfLargeCashWithdraws": "P1M",
+            "numberOfLargeCashWithdraws": null,
+            "approximateLargeCashWithdrawsAmount": null
+        },
+        "internationalPaymentsDetails": {
+            "intendToSendOrReceiveInternationalPayments": false,
+            "regularInternationalPaymentDetails": null
+        }
+    },
+    "applicationOpeningAppointment": {
+        "branchMnemonics": "GTT",
+        "branchCode": "509,749",
+        "branchLocation": "GuangZhou",
+        "branchAddress": "广州市天河区天河路208号粤海天河城大厦首层1号商铺和写字楼第五层01、02、03和08号单位"
+    },
+    "secondApplication": {
+        "customerLanguage": "zh_CN",
+        "checksDetails": [
+            {
+                "checkType": "AGE_CHECK",
+                "status": "NO_HIT",
+                "profileId": "AGE_CHECK_NO_HIT",
+                "codeList": []
+            },
+            {
+                "checkType": "SCC_INDUSTRY_CHECK",
+                "status": "NO_HIT",
+                "profileId": "SCC_INDUSTRY_CHECK_NO_HIT",
+                "codeList": []
+            },
+            {
+                "checkType": "SANCTION_LOCATION",
+                "status": "NO_HIT",
+                "profileId": "SANCTION_LOCATION_NO_HIT",
+                "codeList": []
+            },
+            {
+                "checkType": "RESIDENTIAL_ADDRESS_CHECK",
+                "status": "NO_HIT",
+                "profileId": "RESIDENTIAL_ADDRESS_CHECK_NO_HIT",
+                "codeList": []
+            },
+            {
+                "checkType": "TAX_RESIDENCE_CHECK",
+                "status": "NO_HIT",
+                "profileId": "SCC_INDUSTRY_CHECK_NO_HIT",
+                "codeList": []
+            },
+            {
+                "checkType": "CONNECTED_PARTY_CHECK",
+                "status": "NO_HIT",
+                "profileId": "CONNECTED_PARTY_CHECK_NO_HIT",
+                "codeList": []
+            },
+            {
+                "checkType": "US_INDICIA_PRE_CHECK",
+                "status": "NO_HIT",
+                "profileId": "US_INDICIA_PRE_CHECK_NO_HIT",
+                "codeList": []
+            }
+        ],
+        "consents": [
+            {
+                "consentCode": "CONSENT_T_AND_C",
+                "checked": true,
+                "checkTime": "2019-12-19T08:16:50.799Z[UTC]"
+            }
+        ],
+        "applicationId": "5dfb2cf24a3baca1cdbe3c05",
+        "personalDetails": {
+            "customerNames": [
+                {
+                    "nameType": "LOCAL",
+                    "firstName": "森",
+                    "lastName": "刘",
+                    "fullName": "刘森"
+                },
+                {
+                    "nameType": "PRIMARY",
+                    "firstName": "SEN",
+                    "lastName": "LIU",
+                    "fullName": "SEN LIU"
+                }
+            ],
+            "gender": "MALE",
+            "dateOfBirth": "1996-08-27",
+            "nationalityDetails": {
+                "hasMultipleNationalities": false,
+                "nationality": "CN",
+                "nationality2": null,
+                "nationality3": null
+            },
+            "identificationDocument": {
+                "documentType": "INTERNAL_TRAVEL_DOCUMENT",
+                "documentReference": "dummy_document_ref",
+                "startDate": "2019-12-19",
+                "expiryDate": "2020-03-18",
+                "stayRetentionDays": 90
+            },
+            "countryOfBirth": "CN",
+            "title": "MR",
+            "residentialStatus": {
+                "hasPermanentResidencyInCountry": true
+            },
+            "countryOfResidence": null,
+            "maritalStatus": null
+        },
+        "contactDetails": {
+            "telephoneNumbers": [
+                {
+                    "number": "13632219949",
+                    "countryCode": "86",
+                    "telephoneNumberType": "MOBILE"
+                }
+            ],
+            "emailAddressList": [
+                {
+                    "emailType": "PERSONAL",
+                    "emailAddress": "liusen@liusen.com"
+                }
+            ],
+            "addresses": [
+                {
+                    "addressType": "HOME_ADDRESS",
+                    "addressLine1": "中国",
+                    "addressLine2": "黑龙江省",
+                    "addressLine3": "齐齐哈尔市",
+                    "addressLine4": null,
+                    "addressLine5": "aaaaaaaaaabbbbbbbbbbc",
+                    "postalCode": "1111122222",
+                    "atThisAddressSince": "2019-01-01",
+                    "addressCountry": "CN"
+                },
+                {
+                    "addressType": "PREVIOUS_ADDRESS",
+                    "addressLine1": "中国",
+                    "addressLine2": "北京",
+                    "addressLine3": "北京市",
+                    "addressLine4": null,
+                    "addressLine5": "aaaaaaaaaabbbbbbbbbbd",
+                    "postalCode": "1111133333",
+                    "atThisAddressSince": "2019-01-01",
+                    "addressCountry": "CN"
+                },
+                {
+                    "addressType": "PREVIOUS_ADDRESS",
+                    "addressLine1": "中国",
+                    "addressLine2": "广东省",
+                    "addressLine3": "珠海市",
+                    "addressLine4": null,
+                    "addressLine5": "aaaaaaaaaabbbbbbbbbbe",
+                    "postalCode": "1111144444",
+                    "atThisAddressSince": "2018-11-01",
+                    "addressCountry": "CN"
+                },
+                {
+                    "addressType": "CORRESPONDENCE_ADDRESS",
+                    "addressLine1": "中国",
+                    "addressLine2": "黑龙江省",
+                    "addressLine3": "齐齐哈尔市",
+                    "addressLine4": null,
+                    "addressLine5": "aaaaaaaaaabbbbbbbbbbc",
+                    "postalCode": "1111122222",
+                    "atThisAddressSince": "2019-01-01",
+                    "addressCountry": "CN"
+                }
+            ]
+        },
+        "employmentDetails": {
+            "occupation": "PROFESSIONAL_SENIOREXECUTIVE",
+            "employmentStatus": null,
+            "subOccupation": null,
+            "employmentRole": "ACCOUNTANT",
+            "jobTitle": "BUSINESS_OWNER",
+            "industry": "INFORMATION_AND_COMUNICATION",
+            "employerName": "计算机公司",
+            "employerAddress": {
+                "addressType": "EMPLOYER_ADDRESS",
+                "addressLine1": "中国",
+                "addressLine2": "浙江省",
+                "addressLine3": "宁波市",
+                "addressLine4": null,
+                "addressLine5": "aaaaaaaaaabbbbbbbbbbf",
+                "postalCode": "1111155555",
+                "atThisAddressSince": null,
+                "addressCountry": "CN"
+            }
+        },
+        "financialDetails": {
+            "incomePeriod": "P1Y",
+            "grossIncome": {
+                "amount": "100000",
+                "currency": "CNY"
+            },
+            "otherIncome": {
+                "amount": "200000",
+                "currency": "CNY"
+            },
+            "socialWelfareEligible": null,
+            "taxResidencyInfo": {
+                "taxResidentType": "IN_COUNTRY",
+                "taxResidentCountryOfBirth": "CN",
+                "taxResidentProvinceOfBirth": null,
+                "taxResidentCityOfBirth": null,
+                "taxResidencyDetails": []
+            }
+        },
+        "accountUsage": {
+            "hasConnectedParties": false,
+            "connectedPartiesDetails": {
+                "hasRegularDeposit": null,
+                "frequencyOfDeposit": "P1M",
+                "approximateDepositAmount": null
+            },
+            "accountPurpose": [
+                "SALARY",
+                "SAVINGS",
+                "LIVING_HOUSEHOLD_EXPENSES",
+                "OTHERS"
+            ],
+            "reasonForAccountOpening": "other test reason for hk account usage",
+            "firstDepositDetails": {
+                "initialFundsTransferProcess": null,
+                "initialFundsSource": null,
+                "initialFundsSourceRemark": null,
+                "fundsOriginationCountry": [],
+                "initialDepositAmount": null
+            },
+            "cashWithdrawlAndDepositDetails": {
+                "makesLargeCashDeposits": false,
+                "frequencyOfLargeCashDeposits": "P1M",
+                "numberOfLargeCashDeposits": 0,
+                "approximateLargeCashDepositsAmount": null,
+                "makesLargeCashWithdraws": false,
+                "frequencyOfLargeCashWithdraws": "P1M",
+                "numberOfLargeCashWithdraws": null,
+                "approximateLargeCashWithdrawsAmount": null
+            },
+            "internationalPaymentsDetails": {
+                "intendToSendOrReceiveInternationalPayments": false,
+                "regularInternationalPaymentDetails": null
+            },
+            "reasonForOpeningAccountInAnotherCountry": "OTHERS-other test reason for hk main open acount"
+        },
+        "applicationOpeningAppointment": {
+            "branchMnemonics": "GTT",
+            "branchCode": "509,749",
+            "branchLocation": "GuangZhou",
+            "branchAddress": "广州市天河区天河路208号粤海天河城大厦首层1号商铺和写字楼第五层01、02、03和08号单位"
+        },
+        "preferences": {
+            "debitCardPreferences": {
+                "nameOnDebitCard": "",
+                "deliveryAddressType": "CORRESPONDENCE_ADDRESS"
+            },
+            "marketingPreferences": {
+                "preferredChannels": []
+            }
+        }
+    }
+}
